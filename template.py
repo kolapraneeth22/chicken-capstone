@@ -19,7 +19,8 @@ list_of_files = [
     "dvc.yaml",
     "requirements.txt",
     "setup.py",
-    "research/trails.ipynb"
+    "research/trails.ipynb",
+    "templates/index.html"
 ]
 
 for filepath in list_of_files:
